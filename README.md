@@ -15,3 +15,7 @@
 다음 소프트웨어가 설치되어 있는지 확인하세요:
 - **Node.js** (버전 16 이상)
 - **npm** 또는 **yarn**
+
+## License
+
+- This project is licensed under the MIT License. See the LICENSE file for details.
